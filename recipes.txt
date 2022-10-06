@@ -4,4 +4,7 @@ Welcome to masterchef!!!
 2. Keema
 3. Meet burger
 
+4. Pizza
+5. Fries
+
 Thank you!
